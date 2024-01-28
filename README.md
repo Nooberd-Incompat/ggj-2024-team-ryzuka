@@ -6,3 +6,5 @@ Team Members- Ayush Kumar, Yojith Kaustabh, Vaibhav Tiwade, Harshit Patel, Tusha
 Game-
 Title- Tillu's Odyssey: Castaway Chronicles
 Description- 2D top-down RPG, in which the player plays as a castaway on an island. He needs to survive on the island and be careful from the enemies he faces in the environment
+
+https://globalgamejam.org/games/2024/tillus-odyssey-castaway-chronicles-9
